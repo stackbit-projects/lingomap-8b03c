@@ -10,7 +10,7 @@ sections:
       shows place, transit route, and street names in the original Chinese,
       Mandarin Pinyin, and English.
     actions:
-      - label: App Store (Coming Soon!)
+      - label: 'iOS: App Store (Coming Soon!)'
         url: /pricing
         style: primary
       - label: Google Play
