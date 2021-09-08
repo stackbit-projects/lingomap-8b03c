@@ -12,7 +12,7 @@ sections:
     actions:
       - label: App Store
         url: /pricing
-        style: primary
+        style: link
       - label: Google Play
         url: /pricing
         style: secondary
