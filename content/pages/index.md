@@ -5,9 +5,7 @@ sections:
     title: LingoMap
     subtitle: Find your way in China without language barriers!
     content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+      LingoMap is a map app for foreigners who cannot read Chinese to use in China! It is a translation of Alibaba Maps.
     actions:
       - label: App Store
         url: /pricing
