@@ -12,7 +12,7 @@ sections:
     actions:
       - label: Google Play
         url: /pricing
-        style: secondary
+        style: primary
       - label: lorem-ipsum
         url: '#'
         style: link
