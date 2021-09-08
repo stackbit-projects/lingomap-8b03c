@@ -13,7 +13,7 @@ sections:
       - label: Get it for Android on Google Play
         url: /pricing
         style: secondary
-      - label: iOS
+      - label: 'iOS version '
         url: '#'
         style: link
         has_icon: false
