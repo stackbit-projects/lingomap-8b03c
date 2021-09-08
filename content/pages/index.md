@@ -6,7 +6,9 @@ sections:
     subtitle: Find your way in China without language barriers!
     content: >
       LingoMap is a map app for foreigners who cannot read Chinese to use in
-      China! It is a translation of Alibaba Maps.
+      China! It is a translation of Alibaba Maps (known as AMap and 高德地图). It
+      shows place, transit route, and street names in the original Chinese,
+      Mandarin Pinyin, and English.
     actions:
       - label: App Store
         url: /pricing
