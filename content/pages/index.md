@@ -10,7 +10,7 @@ sections:
       shows place, transit route, and street names in the original Chinese,
       Mandarin Pinyin, and English.
     actions:
-      - label: Google Play
+      - label: Get it for Android on Google Play
         url: /pricing
         style: secondary
       - label: lorem-ipsum
