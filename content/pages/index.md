@@ -19,7 +19,7 @@ sections:
     image: /images/HomePageLogo.png
     image_alt: Hero section placeholder image
     media_position: left
-    media_width: sixty
+    media_width: fourty
     align: left
     padding_top: large
     padding_bottom: large
