@@ -12,14 +12,6 @@ sections:
       - label: Get it for Android on Google Play
         url: /pricing
         style: secondary
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
       - label: iOS version coming soon!
         url: '#'
         style: link
