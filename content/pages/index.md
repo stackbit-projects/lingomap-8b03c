@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    title: LingoMap
     subtitle: Find your way in China without language barriers!
     content: >
       LingoMap is a map app for foreigners who cannot read Chinese to use in
