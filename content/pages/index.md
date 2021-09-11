@@ -21,7 +21,7 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-    image: /images/HomePageLogo.png
+    image: /images/HomePageLogo-a8c59ef6.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fourty
