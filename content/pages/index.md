@@ -23,7 +23,7 @@ sections:
         no_follow: false
     image: /images/HomePageLogo-a8c59ef6.png
     image_alt: Hero section placeholder image
-    media_position: left
+    media_position: top
     media_width: fourty
     align: left
     padding_top: large
