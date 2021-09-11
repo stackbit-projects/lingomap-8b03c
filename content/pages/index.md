@@ -11,7 +11,7 @@ sections:
     actions:
       - label: Get it for Android on Google Play
         url: /pricing
-        style: primary
+        style: secondary
       - label: iOS version coming soon!
         url: '#'
         style: link
