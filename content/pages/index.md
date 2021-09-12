@@ -12,7 +12,7 @@ sections:
       - label: Get it for Android on Google Play
         url: /pricing
         style: secondary
-      - label: Android .apk Download
+      - label: iOS version coming soon!
         url: '#'
         style: link
         has_icon: false
@@ -20,7 +20,7 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-      - label: iOS version coming soon!
+      - label: Android .apk Download
         url: '#'
         style: link
         has_icon: false
