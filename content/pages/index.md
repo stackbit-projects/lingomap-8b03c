@@ -106,13 +106,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Get Directions.
-        actions:
-          - label: Take a look
-            url: /pricing
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: /images/DirectionsScreen.png
         image_alt: Feature 2 placeholder image
         media_position: right
