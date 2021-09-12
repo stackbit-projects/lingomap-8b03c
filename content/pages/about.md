@@ -1,5 +1,5 @@
 ---
-title: 'Donations: I need your help!'
+title: I need your help!
 seo:
   title: About
   description: This is the about us page
