@@ -42,21 +42,19 @@ The app had to be redone again. Work began on this version (3) in 2019 as modern
 
 LingoMap was created by Jason Stine (展昭) with generously volunteered help from:
 
-> \- Kevin Mulligan (Map Information)
+\- Kevin Mulligan (Map Information)
 
-> \- Daniel Daugherty (Map Information)
+\- Daniel Daugherty (Map Information)
 
-> \- Peter Code (Appearance and Styling)
+\- Peter Code (Appearance and Styling)
 
-> \- Rinelle Mudray (Social Media)
+\- Rinelle Mudray (Social Media)
 
-> \- Sissie Wu (Design Ideas)
->
-> sdf
+\- Sissie Wu (Design Ideas)
 
-> \- Erik (Map Information Updates)
+\- Erik (Map Information Updates)
 
-> \- Huangqiao 黄巧 (Map Information Updates)
+\- Huangqiao 黄巧 (Map Information Updates)
 
 A special thanks goes to fiverr.com graphic designer pujovski for creating the beautifully simple and iconic LingoMap icon and logo!
 
