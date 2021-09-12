@@ -51,6 +51,8 @@ LingoMap was created by Jason Stine (展昭) with generously volunteered help fr
 > \- Rinelle Mudray (Social Media)
 
 > \- Sissie Wu (Design Ideas)
+>
+> sdf
 
 > \- Erik (Map Information Updates)
 
