@@ -66,7 +66,7 @@ sections:
     align: left
     background_color: none
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Anywhere in China.
     content: >-
       ## Lorem ipsum
 
