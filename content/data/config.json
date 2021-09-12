@@ -56,7 +56,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "News",
+                "label": "Support Us",
                 "url": "/blog/category/news",
                 "style": "link"
             },
