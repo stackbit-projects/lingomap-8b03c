@@ -101,7 +101,7 @@ sections:
       *   Browse search categories to discover something new
 
       *   Different map types including satellite imagery and the Chinese
-      Alibaba Map
+      language Alibaba map
     actions: []
     actions_position: bottom
     actions_width: fourty
