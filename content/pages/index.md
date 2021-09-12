@@ -84,7 +84,7 @@ sections:
     type: cta_section
   - section_id: lorem-ipsum
     content: >
-      ### And many more features!
+      ### And many other features!
 
 
       *   Bookmark/save places
