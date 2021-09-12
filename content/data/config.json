@@ -69,7 +69,7 @@
             },
             {
                 "label": "Contact Us",
-                "url": "#",
+                "url": "mailto:name@email.com",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
