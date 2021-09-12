@@ -73,7 +73,7 @@
             {
                 "label": "Get it on Google Play",
                 "url": "/support-us",
-                "style": "link"
+                "style": "secondary"
             }
         ],
         "has_tertiary_nav": true,
