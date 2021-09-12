@@ -67,10 +67,8 @@ sections:
     background_color: none
   - section_id: lorem-ipsum
     title: Anywhere in China.
-    content: |
-      # Other features:
-
-      *   adfs
+    content: |2
+        
     actions: []
     actions_position: bottom
     actions_width: fourty
