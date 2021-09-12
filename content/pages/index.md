@@ -87,10 +87,10 @@ sections:
       ### And many other features!
 
 
-      *   Bookmark/save places
-
       *   Share any place with friends: they can get directions to your place in
       just a couple clicks!
+
+      *   Bookmark/save places
 
       *   Get directions by train between cities
 
