@@ -123,7 +123,7 @@ sections:
         align: center
         image: /images/PlaceDetailsScreen.png
     feature_padding_vert: large
-    align: left
+    align: right
     background_color: none
   - type: features_section
     features:
