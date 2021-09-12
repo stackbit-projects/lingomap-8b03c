@@ -40,3 +40,24 @@ The app had to be redone again. Work began on this version (3) in 2019 as modern
 
 #### Credits
 
+LingoMap was created by Jason Stine (展昭) with generously volunteered help from:
+
+\- Kevin Mulligan (Map Information)
+
+\- Daniel Daugherty (Map Information)
+
+\- Peter Code (Appearance and Styling)
+
+\- Rinelle Mudray (Social Media)
+
+\- Sissie Wu (Design Ideas)
+
+\- Erik (Map Information Updates)
+
+\- Huangqiao 黄巧 (Map Information Updates)
+
+A special thanks goes to fiverr.com graphic designer pujovski for creating the beautifully simple and iconic LingoMap icon and logo!
+
+The app uses icons from www.flaticon.com created by the following flaticon authors, separated by commas in no particular order: pixel-perfect, catalin-fertu, freepik, becris, those-icons, smashicons, google, roundicons, good-ware, itim2101, geotatah, nhor-phai, bqlqn, iconixar, kiranshastry, mavadee
+
+And finally a special shoutout to the countless LingoMap app users who have supported the project for so many years - thank you!
