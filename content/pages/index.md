@@ -100,13 +100,7 @@ sections:
   - type: features_section
     features:
       - title: Find Places.
-        actions:
-          - label: Learn More
-            url: /pricing
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: /images/SearchResultsScreen.png
         image_alt: Feature 1 placeholder image
         media_position: left
