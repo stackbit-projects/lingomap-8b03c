@@ -49,7 +49,7 @@
             },
             {
                 "label": "Support Us",
-                "url": "support-us",
+                "url": "/support-us",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
