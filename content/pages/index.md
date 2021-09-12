@@ -106,10 +106,6 @@ sections:
         media_position: left
         media_width: fifty
       - title: Get Directions.
-        content: >-
-          We all have stuff to do all the time: Work tasks, calls to make,
-          groceries to buy and dry cleaning to pick up. Get all your tasks in
-          one place for easy management.
         actions:
           - label: Take a look
             url: /pricing
