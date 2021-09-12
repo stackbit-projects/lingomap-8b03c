@@ -20,7 +20,7 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-      - label: 'Android: Can''t access Google Play? Download the '
+      - label: 'Android: Can''t access Google Play? Download the .apk'
         url: '#'
         style: link
         has_icon: false
