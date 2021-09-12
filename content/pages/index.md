@@ -87,7 +87,7 @@ sections:
       ### And many more features!
 
 
-      *   Bookmark places
+      *   Bookmark/save places
 
       *   Share any place with friends: they can get directions to your place in
       just a couple clicks!
