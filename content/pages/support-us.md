@@ -26,3 +26,5 @@ How to donate:
 ![](/images/WechatPayMe-6ca3ed47.jpeg)
 
 Thank you! Your help is greatly appreciated!
+
+For any assistance, please contact us at lingomapapp@gmail.com
