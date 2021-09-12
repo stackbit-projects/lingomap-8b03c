@@ -116,17 +116,24 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ##### Our Story
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      [Click here to read more about our journey!](/about)
 
 
-      - Lorem ipsum
+      ##### Support Us
 
-      - dolor sit amet
+
+      [We need your help to keep this project active! Click here to read
+      more!](/support-us)
+
+
+      ##### Contact Us
+
+
+      Please send us an email at: lingomapapp@gmail.com
     actions: []
     actions_position: bottom
     actions_width: fourty
