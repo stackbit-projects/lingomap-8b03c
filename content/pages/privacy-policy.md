@@ -60,6 +60,7 @@ IMPROVE, PERSONALIZE, AND DEVELOP THE SERVICES
 We use the information we collect to improve and personalize the Services and to develop new ones. For example, we use the information to troubleshoot and protect against errors; perform data analysis and testing; conduct research and surveys, and develop new features and Services.
 
 **Contact information**
+
 Should you reach out to us via email to get help or ask a question we will respond to the contact information that you provide. The contact information will be used explicitly to communicate with you based on your request/question. We may also follow up and ask for a feedback about how we can improve our customer services preceding a closure of your ticket.
 
 **Technical information**
