@@ -17,9 +17,9 @@ How to donate:
 
 1\. Skip this step if you're already in WeChat. If not, then:
 
-*   Option 1: Use your web browser's share function to send the link to this page to a chat in WeChat.
+*   Option 1: Use your web browser's share function to send the link to this page to a chat in WeChat and then click on it.
 
-*   Option 2: Copy/paste this page's URL and send it to yourself in WeChat using the File Transfer chat tool.
+*   Option 2: Copy this page's URL, paste it in a chat in WeChat, and then click on it.
 
 2\. Long-press this QR code and select Scan QR Code.
 
