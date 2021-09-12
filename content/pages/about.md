@@ -1,5 +1,5 @@
 ---
-title: I need your help!
+title: Our Story
 seo:
   title: About
   description: This is the about us page
