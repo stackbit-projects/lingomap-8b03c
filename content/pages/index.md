@@ -96,6 +96,8 @@ sections:
 
       *   Get directions by train between cities
 
+      *   Get a taxi card with translations for showing to cab drivers
+
       *   Browse search categories to discover something new
 
       *   Different map types including satellite imagery and the Chinese
