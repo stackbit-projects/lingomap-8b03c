@@ -19,3 +19,4 @@ How to donate:
 
 2.  Long-press this QR code and select scan.
 
+![](/images/WechatPayMe-6ca3ed47.jpeg)
