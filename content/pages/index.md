@@ -105,6 +105,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: left
         media_width: fifty
+        align: center
       - title: Get Directions.
         actions: []
         image: /images/DirectionsScreen.png
