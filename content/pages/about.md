@@ -34,6 +34,6 @@ He started development on version 1 of the software in November 2016 and then re
 
 Moment in history - see the old webpage for Lost Laowai: <https://lostlaowai.wixsite.com/home>
 
-Version 2, released in the fall of 2018, was very successful and got many downloads. A passionate user base began following and supporting the app. However, after some time the it began having technical problems Jason was unable to fix, and a new solution was needed.
+Version 2, released in the fall of 2018, was very successful and got many downloads. A passionate user base began following and supporting the app. However, after some time the app began having technical problems Jason was unable to fix, and a new solution was needed.
 
 The app had to be redone again. Work began on this version (3) in 2019 as modern TypeScript React Native Android and iOS apps. Although it inherits some code from the previous versions, most of it was completely rewritten to be what you are using now.
