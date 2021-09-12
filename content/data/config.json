@@ -71,7 +71,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Support Us",
+                "label": "Get it on Google Play",
                 "url": "/support-us",
                 "style": "link"
             }
