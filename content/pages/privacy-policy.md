@@ -56,6 +56,7 @@ PROVIDE AND MAINTAIN THE SERVICES
 Using the information we collect, we are able to deliver the Services to you and honor our contract with you. For example, we may need to use your information to provide you with our online backup services, or to enable the community features of the Services; and to give you customer support.
 
 IMPROVE, PERSONALIZE, AND DEVELOP THE SERVICES
+
 We use the information we collect to improve and personalize the Services and to develop new ones. For example, we use the information to troubleshoot and protect against errors; perform data analysis and testing; conduct research and surveys, and develop new features and Services.
 ​
 **Contact information**
