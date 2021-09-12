@@ -113,7 +113,7 @@ sections:
         media_position: right
         media_width: fifty
         align: center
-      - title: lorem-ipsum
+      - title: See Translations.
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
