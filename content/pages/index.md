@@ -83,17 +83,23 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ### And many more features!
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      *   Bookmark places
 
+      *   Share any place with friends: they can get directions to your place in
+      just a couple clicks!
 
-      - Lorem ipsum
+      *   Get directions by train between cities
 
-      - dolor sit amet
+      *   Long-press to translate anything on the map
+
+      *   Browse search categories to discover something new
+
+      *   Different map types including satellite imagery and the Chinese
+      Alibaba Map
     actions: []
     actions_position: bottom
     actions_width: fourty
