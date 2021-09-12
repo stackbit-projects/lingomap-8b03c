@@ -14,7 +14,7 @@
         "primary_nav_links": [
             {
                 "label": "Support Us",
-                "url": "/about",
+                "url": "/support-us",
                 "style": "link"
             },
             {
