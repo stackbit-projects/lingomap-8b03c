@@ -20,7 +20,7 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-      - label: 'Android '
+      - label: Android .apk Download
         url: '#'
         style: link
         has_icon: false
