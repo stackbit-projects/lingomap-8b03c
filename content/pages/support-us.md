@@ -15,9 +15,13 @@ Currently I can accept WeChat Pay donations in RMB from China-based WeChat accou
 
 How to donate:
 
-1.  Open this webpage in WeChat if you're not there already. (Might have to copy/paste this page's URL and send it to yourself first in WeChat.)
+1\. Open this webpage in WeChat if you're not there already:
 
-2.  Long-press this QR code and select Scan QR Code.
+*   Option 1: Use your web browser's share function to send the link to a chat in WeChat.
+
+*   Option 2: Copy/paste this page's URL and send it to yourself first in WeChat.
+
+2\. Long-press this QR code and select Scan QR Code.
 
 ![](/images/WechatPayMe-6ca3ed47.jpeg)
 
