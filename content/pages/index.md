@@ -114,7 +114,6 @@ sections:
         media_width: fifty
         align: center
       - title: See Translations.
-        subtitle: lorem-ipsum
         content: |
           *
         actions: []
