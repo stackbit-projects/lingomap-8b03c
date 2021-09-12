@@ -115,10 +115,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-  - type: features_section
-    features: []
-    feature_padding_vert: small
-    background_color: secondary
   - type: blog_feed_section
     title: Productivity Blog
     subtitle: What's Up?
