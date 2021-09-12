@@ -57,7 +57,7 @@
         "secondary_nav_links": [
             {
                 "label": "Support Us",
-                "url": "/blog/category/news",
+                "url": "/support-us",
                 "style": "link"
             },
             {
