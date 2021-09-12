@@ -92,9 +92,9 @@ sections:
 
       *   Bookmark/save places
 
-      *   Get directions by train between cities
-
       *   Long-press to translate anything on the map
+
+      *   Get directions by train between cities
 
       *   Browse search categories to discover something new
 
