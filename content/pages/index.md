@@ -118,7 +118,7 @@ sections:
            
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: left
         media_width: fifty
         align: center
         image: /images/PlaceDetailsScreen.png
