@@ -83,7 +83,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Other Features
     content: >-
       ## Lorem ipsum
 
