@@ -120,7 +120,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
-        align: left
+        align: center
         image: /images/PlaceDetailsScreen.png
     feature_padding_vert: large
     align: left
