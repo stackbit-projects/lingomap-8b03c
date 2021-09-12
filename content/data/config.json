@@ -69,7 +69,7 @@
             },
             {
                 "label": "Contact Us: lingomapapp@gmail.com",
-                "url": "mailto:lingomapapp@gmail.com",
+                "url": "#",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
