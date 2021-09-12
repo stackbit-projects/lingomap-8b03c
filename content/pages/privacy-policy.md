@@ -22,13 +22,13 @@ seo:
 layout: page
 ---
 Our privacy policy (the “Privacy Policy”) is here to give you all the information you need about what kind of information we collect, how we use, how we share it, how you control your data, and make sure you know your rights in connection to when you use our applications, software, websites, APIs and services (collectively, “LingoMap”).
-​
+
 When it comes to third party products or services or the practices of companies that we do not own or control, including other companies you might interact with or through LingoMap, this Privacy Policy does not apply to them, unless indicated otherwise.
-​
+
 This Privacy Policy establishes a legal agreement between you, as the user of LingoMap. Throughout this Privacy Policy we will refer to you as “you”, and we will refer to LingoMap (as the developer behind LingoMap) as “we”, “us” or “LingoMap”.
-​
+
 We may anonymize, de-identify and/or aggregate the information that we collect and use such anonymized, de-identified and/or aggregated data for commercial, statistical and market research purposes, including sharing it with affiliates and business partners.
-​
+
 If you have any questions, or feel you need any part of this document explained, please email us so we can assist you: lingomapapp@gmail.com
 ​
 **Processing of your information**
