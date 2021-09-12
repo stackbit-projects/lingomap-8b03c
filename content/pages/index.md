@@ -119,7 +119,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: top
-        media_width: fifty
+        media_width: thirty-three
         align: center
         image: /images/PlaceDetailsScreen.png
     feature_padding_vert: large
