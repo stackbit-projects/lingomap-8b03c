@@ -148,7 +148,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
 seo:
-  title: Stackbit App Theme
+  title: 'LingoMap: Your China Map App'
   description: The preview of the App theme
   extra:
     - name: 'og:type'
