@@ -149,7 +149,6 @@ sections:
     type: cta_section
 seo:
   title: 'LingoMap: Your China Map App'
-  description: The preview of the App theme
   extra:
     - name: 'og:type'
       value: website
