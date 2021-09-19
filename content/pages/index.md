@@ -162,7 +162,7 @@ seo:
         English
       keyName: property
     - name: 'og:image'
-      value: /images/HomePageLogo-df9983d1.png
+      value: /images/HomePageLogo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
