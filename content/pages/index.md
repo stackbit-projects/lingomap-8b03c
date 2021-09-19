@@ -174,7 +174,7 @@ seo:
         China map app with places and directions in Chinese, Mandarin pinyin and
         English
     - name: 'twitter:image'
-      value: /images/HomePageLogo-df9983d1.png
+      value: /images/IconSmall.png
       relativeUrl: true
   description: >-
     China map app with places and directions in Chinese, Mandarin pinyin and
