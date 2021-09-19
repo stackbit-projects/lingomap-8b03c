@@ -162,7 +162,7 @@ seo:
         English
       keyName: property
     - name: 'og:image'
-      value: /images/Icon.png
+      value: /images/IconSmall.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
