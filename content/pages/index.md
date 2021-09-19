@@ -176,5 +176,8 @@ seo:
     - name: 'twitter:image'
       value: /images/HomePageLogo-df9983d1.png
       relativeUrl: true
+  description: >-
+    China map app with places and directions in Chinese, Mandarin pinyin and
+    English
 layout: advanced
 ---
