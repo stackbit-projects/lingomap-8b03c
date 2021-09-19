@@ -172,7 +172,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the App theme
     - name: 'twitter:image'
-      value: images/post-1.jpg
+      value: /images/HomePageLogo-df9983d1.png
       relativeUrl: true
 layout: advanced
 ---
