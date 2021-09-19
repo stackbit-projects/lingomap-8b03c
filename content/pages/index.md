@@ -160,7 +160,7 @@ seo:
       value: The preview of the App theme
       keyName: property
     - name: 'og:image'
-      value: /images/Logo Transparent PNG SMALL.png
+      value: /images/HomePageLogo-df9983d1.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
