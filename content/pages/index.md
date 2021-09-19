@@ -157,7 +157,9 @@ seo:
       value: LingoMap
       keyName: property
     - name: 'og:description'
-      value: The preview of the App theme
+      value: >-
+        China map app with places and directions in Chinese, Mandarin pinyin and
+        English
       keyName: property
     - name: 'og:image'
       value: /images/HomePageLogo-df9983d1.png
