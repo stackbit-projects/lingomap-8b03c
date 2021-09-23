@@ -43,16 +43,6 @@
                 "style": "link"
             },
             {
-                "label": "Support Us",
-                "url": "/support-us",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
                 "label": "Privacy Policy",
                 "url": "/privacy-policy",
                 "style": "link",
