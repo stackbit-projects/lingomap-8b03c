@@ -116,22 +116,12 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - section_id: lorem-ipsum
-    content: >
+    content: |
       ##### Our Story
-
 
       [Click here to read more about our journey!](/about)
 
-
-      ##### Support Us
-
-
-      [We need your help to keep this project active! Click here to read
-      more!](/support-us)
-
-
       ##### Contact Us
-
 
       Please send us an email at: lingomapapp@gmail.com
     actions: []
