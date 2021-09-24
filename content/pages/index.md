@@ -9,7 +9,7 @@ sections:
       shows place, transit route, and street names in the original Chinese,
       Mandarin Pinyin, and English.
     actions:
-      - label: Get it for Android on Google Play
+      - label: Click to download!
         url: /pricing
         style: secondary
       - label: iOS version coming soon!
