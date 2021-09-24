@@ -56,7 +56,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Click to ",
+                "label": "Click to download!",
                 "url": "/support-us",
                 "style": "secondary"
             },
