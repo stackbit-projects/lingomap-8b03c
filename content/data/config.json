@@ -37,7 +37,7 @@
         "secondary_nav_links": [
             {
                 "label": "Click to download!",
-                "url": "/pricing",
+                "url": "/download",
                 "style": "secondary"
             }
         ]
