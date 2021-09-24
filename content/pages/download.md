@@ -2,7 +2,6 @@
 title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     actions:
       - label: Get it on Google Play
         url: '#'
