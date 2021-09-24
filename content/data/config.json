@@ -36,7 +36,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Google Play",
+                "label": "Click to download!",
                 "url": "/pricing",
                 "style": "secondary"
             }
