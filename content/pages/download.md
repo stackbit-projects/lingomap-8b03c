@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Get LingoMap
 seo:
   title: ''
   description: ''
