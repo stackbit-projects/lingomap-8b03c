@@ -86,8 +86,7 @@
         "has_social": true,
         "social_links": [],
         "content": "&copy; LingoMap. All rights reserved.",
-        "primary_nav_title": "The App",
-        "secondary_nav_title": "Download"
+        "primary_nav_title": "The App"
     },
     "announcement": {
         "has_anncmnt": false,
