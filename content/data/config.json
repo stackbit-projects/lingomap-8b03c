@@ -48,13 +48,8 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Our Story",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
+                "label": "Home",
+                "url": "/",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -63,8 +58,13 @@
                 "no_follow": false
             },
             {
-                "label": "Home",
-                "url": "/",
+                "label": "Our Story",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Privacy Policy",
+                "url": "/privacy-policy",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
