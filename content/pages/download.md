@@ -5,7 +5,7 @@ sections:
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: Get it on Google Play
         url: '#'
         style: link
         has_icon: false
