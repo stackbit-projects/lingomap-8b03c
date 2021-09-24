@@ -12,14 +12,6 @@ sections:
       - label: Click to download!
         url: /download
         style: secondary
-      - label: iOS version coming soon!
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
       - label: 'Android: Can''t access Google Play? Download the .apk!'
         url: '#'
         style: link
