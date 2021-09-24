@@ -56,7 +56,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Get it on Google Play",
+                "label": "Download",
                 "url": "/support-us",
                 "style": "secondary"
             },
