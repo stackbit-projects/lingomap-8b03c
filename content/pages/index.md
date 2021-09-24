@@ -12,14 +12,6 @@ sections:
       - label: Click to download!
         url: /download
         style: secondary
-      - label: 'Android: Can''t access Google Play? Download the .apk!'
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
     image: /images/HomePageLogo-df9983d1.png
     image_alt: Hero section placeholder image
     media_position: top
