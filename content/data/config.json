@@ -13,7 +13,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Download",
+                "label": "Download Now",
                 "url": "/download",
                 "style": "link",
                 "has_icon": false,
