@@ -7,9 +7,9 @@ seo:
   extra: []
 layout: page
 ---
-##### Android
+### Android
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Click here to get it on Google Play!
 
 *   Lorem ipsum
 *   dolor sit amet
