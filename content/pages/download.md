@@ -4,7 +4,7 @@ sections:
   - section_id: lorem-ipsum
     actions:
       - label: Get it on Google Play
-        url: '#'
+        url: 'https://play.google.com/store/apps/details?id=com.lingomap'
         style: secondary
         has_icon: false
         icon: arrow-left
