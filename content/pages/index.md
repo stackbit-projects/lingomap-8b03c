@@ -10,7 +10,7 @@ sections:
       Mandarin Pinyin, and English.
     actions:
       - label: Click to download!
-        url: /pricing
+        url: /download
         style: secondary
       - label: iOS version coming soon!
         url: '#'
