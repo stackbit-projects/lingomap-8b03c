@@ -16,7 +16,6 @@ sections:
         image_has_padding: false
         image: /images/GetItOnGooglePlay.png
       - title: iOS
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
