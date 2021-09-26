@@ -45,7 +45,6 @@ sections:
     title: Download LingoMap
     section_id: download
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
     grid_items:
