@@ -16,7 +16,7 @@ sections:
         image_has_padding: false
         image: /images/GetItOnGooglePlay.png
       - title: iOS
-        title_align: left
+        title_align: center
         content: |
           A version for iPhones and iOS is coming soon! Stay tuned!
         content_align: left
