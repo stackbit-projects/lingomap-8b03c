@@ -64,6 +64,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     title: Download LingoMap
+    section_id: download
 seo:
   title: ''
   description: ''
