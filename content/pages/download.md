@@ -94,7 +94,7 @@ sections:
     type: grid_section
   - section_id: lorem-ipsum
     content: |
-      Contact us at 
+      Contact us at <lingomapapp@gmail.com> if you have any issues.
     actions: []
     actions_position: bottom
     actions_width: fourty
