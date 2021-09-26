@@ -3,14 +3,6 @@ title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
     actions:
-      - label: Get it on Google Play
-        url: 'https://play.google.com/store/apps/details?id=com.lingomap'
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
       - label: lorem-ipsum
         url: '#'
         style: link
