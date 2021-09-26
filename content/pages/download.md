@@ -56,6 +56,9 @@ sections:
           host the .apk file for manual installation.
 
 
+          ![](/images/Troublemaker%20horizontal.png)
+
+
           Click here to download the .apk installer file!
         content_align: left
         actions: []
