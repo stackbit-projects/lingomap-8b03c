@@ -5,8 +5,8 @@ sections:
     grid_items:
       - title: Android
         title_align: center
-        content: |2
-           
+        content: >
+          ![](/images/GetItOnGooglePlay.png)<https://play.google.com/store/apps/details?id=com.lingomap>
         content_align: left
         actions: []
         actions_align: left
