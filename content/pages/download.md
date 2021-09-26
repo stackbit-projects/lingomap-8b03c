@@ -69,7 +69,7 @@ sections:
         image_align: left
         image_has_padding: false
     grid_cols: three
-    grid_gap_vert: medium
+    grid_gap_vert: large
     grid_gap_horiz: small
     enable_cards: false
     align: center
