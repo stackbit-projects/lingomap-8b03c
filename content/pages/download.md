@@ -14,7 +14,6 @@ sections:
         image_width: fifty
         image_align: center
         image_has_padding: false
-        image: /images/GetItOnGooglePlay.png
         content: >
           ![](/images/GetItOnGooglePlay.png)
 
