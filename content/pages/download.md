@@ -17,8 +17,8 @@ sections:
         image: /images/GetItOnGooglePlay.png
       - title: iOS
         title_align: left
-        content: |2
-           
+        content: |
+          A version for iPhones and iOS is coming soon! Stay tuned!
         content_align: left
         actions: []
         actions_align: left
