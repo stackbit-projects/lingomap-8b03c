@@ -3,7 +3,7 @@ title: lorem-ipsum
 sections:
   - actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Android
         subtitle: lorem-ipsum
         title_align: left
         content: >-
