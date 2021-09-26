@@ -50,13 +50,14 @@ sections:
       - title_align: left
         content: >
           We strongly recommend installing the app through Google Play so you
-          can get automatic updates. 
+          can get automatic updates.
 
 
           If you don't have access to Google Play, our friends over at
-          [TroubleMaker Shenzhen, an international
-          makerspace](https://troublemaker.site/), have graciously helped us to
-          host the .apk file for manual installation.
+          [TroubleMaker Shenzhen](https://troublemaker.site/), an international
+          makerspace created to help foreign tech startups start their
+          businesses in China, have graciously helped us to host the .apk file
+          for manual installation.
 
 
           ![](/images/Troublemaker%20horizontal.png)
