@@ -64,6 +64,11 @@ sections:
 
 
           Click here to download the .apk installer file!
+
+
+          If you are viewing this page in WeChat, you may have to open this link
+          in your phone's separate web browser app outside of WeChat as WeChat
+          does not allow directly installing app files.
         content_align: left
         actions: []
         actions_align: left
