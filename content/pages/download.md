@@ -48,17 +48,15 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          We strongly recommend installing the app through Google Play so you
+          can get automatic updates. If you don't have access to Google Play,
+          our friends over at [TroubleMaker Shenzhen, an international
+          makerspace](https://troublemaker.site/), have graciously helped us to
+          host the .apk file for manual installation.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Click here to download the .apk installer file!
         content_align: left
         actions: []
         actions_align: left
