@@ -15,6 +15,27 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/GetItOnGooglePlay.png
+        content: >
+          We strongly recommend installing the app through Google Play so you
+          can get automatic updates.
+
+
+          If you don't have access to Google Play, our friends over at
+          [TroubleMaker Shenzhen](https://troublemaker.site/), an international
+          makerspace created to help foreign tech startups start their
+          businesses in China, have graciously helped us to host the .apk file
+          for manual installation.
+
+
+          ![](https://preview--lingomap-8b03c.stackbit.dev/images/Troublemaker%20horizontal.png)
+
+
+          Click here to download the .apk installer file!
+
+
+          If you are viewing this page in WeChat, you may have to open this link
+          in your phone's separate web browser app outside of WeChat as WeChat
+          does not allow directly installing app files.
       - title: iOS
         title_align: center
         content: |
