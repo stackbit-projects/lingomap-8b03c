@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Download
 sections:
   - actions: []
     grid_items:
