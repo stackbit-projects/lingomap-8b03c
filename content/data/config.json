@@ -77,7 +77,7 @@
         "secondary_nav_links": [
             {
                 "label": "Click to download!",
-                "url": "/support-us",
+                "url": "/download",
                 "style": "secondary"
             }
         ],
