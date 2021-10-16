@@ -109,7 +109,7 @@ sections:
 
       Go to our Support Us page to see how you can help out!
 
-      Contact Us
+      ##### Contact Us
 
       Please send us an email at: lingomapapp@gmail.com
     actions: []
