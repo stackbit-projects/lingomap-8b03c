@@ -61,3 +61,5 @@ A special thanks goes to fiverr.com graphic designer pujovski for creating the b
 The app uses icons from www.flaticon.com created by the following flaticon authors, separated by commas in no particular order: pixel-perfect, catalin-fertu, freepik, becris, those-icons, smashicons, google, roundicons, good-ware, itim2101, geotatah, nhor-phai, bqlqn, iconixar, kiranshastry, mavadee
 
 And finally a special shoutout to the countless LingoMap app users who have supported the project for so many years - thank you!
+
+Please considering supporting us by going to the Support Us page!
