@@ -24,7 +24,7 @@ sections:
       How to donate:
 
 
-      1.  Skip this step if you're already in WeChat. If not, then:
+      1\. Skip this step if you're already in WeChat. If not, then:
 
 
       Option 1: Use your web browser's share function to send the link to this
