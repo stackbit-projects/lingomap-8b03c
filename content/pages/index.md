@@ -105,13 +105,13 @@ sections:
 
       [Click here to read more about our journey!](/about)
 
-      ##### Contact Us
-
-      Please send us an email at: lingomapapp@gmail.com
-
       ##### Support Us
 
-      Click here to see how you can help out!
+      Go to our Support Us page to see how you can help out!
+
+      Contact Us
+
+      Please send us an email at: lingomapapp@gmail.com
     actions: []
     actions_position: bottom
     actions_width: fourty
