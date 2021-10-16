@@ -2,7 +2,6 @@
 title: Support Us
 sections:
   - section_id: lorem-ipsum
-    title: Support Us
     content: >-
       ## Lorem ipsum
 
