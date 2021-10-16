@@ -3,7 +3,7 @@ title: Support Us
 sections:
   - section_id: lorem-ipsum
     content: >
-      #### I need your help!
+      ### I need your help!
 
 
       As pretty much a one-man team, I (Jason) have spent years of personal time
@@ -24,7 +24,7 @@ sections:
       How to donate:
 
 
-      1\. Skip this step if you're already in WeChat. If not, then:
+      ##### 1. Skip this step if you're already in WeChat. If not, then:
 
 
       Option 1: Use your web browser's share function to send the link to this
@@ -35,7 +35,7 @@ sections:
       click on it.
 
 
-      2\. Long-press this QR code and select Scan QR Code.
+      ##### 2. Long-press this QR code and select Scan QR Code.
 
 
       ![](/images/WechatPayMe-6ca3ed47.jpeg)
