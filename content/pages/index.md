@@ -108,6 +108,10 @@ sections:
       ##### Contact Us
 
       Please send us an email at: lingomapapp@gmail.com
+
+      ##### Support Us
+
+      Click here to see how you can help out!
     actions: []
     actions_position: bottom
     actions_width: fourty
