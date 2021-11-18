@@ -3,6 +3,21 @@ title: Download
 sections:
   - actions: []
     grid_items:
+      - title: iOS
+        title_align: center
+        content: |
+          ![](/images/DownloadOnAppleAppStore-0ac22a23.jpeg)
+
+          Click the button above to download the iOS app on the Apple App Store.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
       - title: Android
         title_align: center
         content_align: left
@@ -34,21 +49,6 @@ sections:
 
           [Click here to download the .apk installer
           file!](http://troublemaker.site/?page_id=20)
-      - title: iOS
-        title_align: center
-        content: |
-          ![](/images/DownloadOnAppleAppStore-0ac22a23.jpeg)
-
-          Click the button above to download the iOS app on the Apple App Store.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
