@@ -36,9 +36,10 @@ sections:
           file!](http://troublemaker.site/?page_id=20)
       - title: iOS
         title_align: center
-        content: |+
+        content: |
           ![](/images/DownloadOnAppleAppStore-0ac22a23.jpeg)
 
+          Click the button above to download the iOS app on the Apple App Store.
         content_align: left
         actions: []
         actions_align: left
