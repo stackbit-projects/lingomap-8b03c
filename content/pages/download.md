@@ -36,8 +36,9 @@ sections:
           file!](http://troublemaker.site/?page_id=20)
       - title: iOS
         title_align: center
-        content: |
-          A version for iPhones and iOS is coming soon! Stay tuned!
+        content: |+
+          ![](/images/DownloadOnAppleAppStore-0ac22a23.jpeg)
+
         content_align: left
         actions: []
         actions_align: left
